@@ -10,22 +10,22 @@ Statistical analysis of business Data. Explore the dataset and extract insights 
 
 You are expected to perform the statistical analysis to answer the following questions:
 
-Explore the dataset and extract insights using Exploratory Data Analysis.
-Do the users spend more time on the new landing page than the existing landing page?
-Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
-Does the converted status depend on the preferred language? [Hint: Create a contingency table using the pandas.crosstab() function]
-Is the mean time spent on the new page same for the different language users?
+- Explore the dataset and extract insights using Exploratory Data Analysis.
+- Do the users spend more time on the new landing page than the existing landing page?
+- Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
+- Does the converted status depend on the preferred language? 
+- Is the mean time spent on the new page same for the different language users?
 *Consider a significance level of 0.05 for all tests.
 
 Data Dictionary:
 
-user_id - This represents the user ID of the customer visiting the website.
-group - This represents whether the customer belongs to the first group (control) or the second group (treatment).
-landing_page - This represents whether the landing page is new or old.
-time_spent_on_the_page - This represents the time(in minutes) spent by the customer on the landing page.
-converted - This represents whether the customer converted or not.
-language_preferred - This represents the language chosen by the customer to view the landing page.
-Course Business Statistics
+- user_id - This represents the user ID of the customer visiting the website.
+- group - This represents whether the customer belongs to the first group (control) or the second group (treatment).
+- landing_page - This represents whether the landing page is new or old.
+- time_spent_on_the_page - This represents the time(in minutes) spent by the customer on the landing page.
+- converted - This represents whether the customer converted or not.
+- language_preferred - This represents the language chosen by the customer to view the landing page.
+- Course Business Statistics
 
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an
 online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has 
