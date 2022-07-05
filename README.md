@@ -1,5 +1,4 @@
-# E-news-Express-A-B-testing
-E-news Express Project
+# E-news-Express- A/B testing.
 
 An online news portal aims to expand its business by acquiring new subscribers. Every visitor to the website takes certain actions based on their interest. The company plans to analyze these interests and wants to determine whether a new feature will be effective or not. Companies often analyze user's responses to two variants of a product to decide which of the two variants is more effective. This experiment technique is known as a/b testing that is used to find out whether a new feature attracts users based on a chosen metric.
 
@@ -7,9 +6,8 @@ Suppose you are hired as a Data Scientist in E-news Express. The design team of 
 
 Objective:
 
-Statistical analysis of business Data. Explore the dataset and extract insights from the data. The idea is for you to get comfortable with doing statistical analysis in Python.
-
-You are expected to perform the statistical analysis to answer the following questions:
+Statistical analysis of business Data. 
+Explore the dataset and extract insights from the data.
 
 - Explore the dataset and extract insights using Exploratory Data Analysis.
 - Do the users spend more time on the new landing page than the existing landing page?
